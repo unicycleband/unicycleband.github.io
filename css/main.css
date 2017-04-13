@@ -6,9 +6,9 @@ html {
 
 body {
 	position: absolute;
-	color: #fff;
+	color: #050505;
 	font-family: Futura;
-	background-color: #000;
+	background-color: rgb(250, 184, 30);
 	height: 100%;
 	min-height: 100% !important;
 	min-width: 100% !important;
@@ -37,7 +37,7 @@ p {
 
 .social-icons {
 	position: fixed;
-	left:50%;
+	left: 50%;
 	bottom: 15px;
 }
 
