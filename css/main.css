@@ -36,8 +36,13 @@ p {
 	background: -o-linear-gradient(left, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
 	background: -ms-linear-gradient(left, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
 	background: linear-gradient(to right, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
-	background-clip: text;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
+	-o-background-clip: text;
+	-ms-background-clip: text;
+	background-clip: text;
+	-moz-text-fill-color: transparent;
 	-webkit-text-fill-color: transparent;
+	-o-text-fill-color: transparent;
+	-ms-text-fill-color: transparent;
 }
