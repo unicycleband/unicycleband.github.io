@@ -17,9 +17,9 @@ p {
 }
 
 .logo {
-	/* position: absolute; */
-	/* top:400% !important; */
-
-	font-size:90pt;
-	font-weight: 800;
+	position: absolute;
+	top:40% !important;
+	letter-spacing: -2px;
+	font-size: 90pt;
+	font-weight: 900;
 }
