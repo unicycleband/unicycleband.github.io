@@ -37,6 +37,7 @@ p {
 
 .social-icons {
 	position: fixed;
+	left:50%;
 	bottom: 15px;
 }
 
