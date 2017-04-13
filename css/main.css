@@ -29,7 +29,7 @@ p {
 	text-align: center;
 }
 
-.logo p {
+/* .logo p {
 	background: -moz-linear-gradient(left, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
 	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(118,76,255,1)), color-stop(100%, rgba(255,235,10,1)));
 	background: -webkit-linear-gradient(left, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
@@ -45,4 +45,4 @@ p {
 	-webkit-text-fill-color: transparent;
 	-o-text-fill-color: transparent;
 	-ms-text-fill-color: transparent;
-}
+} */
