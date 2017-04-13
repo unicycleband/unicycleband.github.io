@@ -35,6 +35,11 @@ p {
 	text-align: center;
 }
 
+.social-icons {
+	position: fixed;
+	bottom: 15px;
+}
+
 /* .logo p {
 	background: -moz-linear-gradient(left, rgba(118,76,255,1) 0%, rgba(255,235,10,1) 100%);
 	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(118,76,255,1)), color-stop(100%, rgba(255,235,10,1)));
