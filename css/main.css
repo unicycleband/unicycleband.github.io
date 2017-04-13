@@ -21,7 +21,8 @@ p {
 
 .logo {
 	position: absolute;
-	margin-left: 10%;
+	width: 50%;
+	margin-left: 25%%;
 	top: 33% !important;
 	letter-spacing: -2px;
 	font-size: 90pt;
