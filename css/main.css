@@ -1,6 +1,7 @@
 // main.css
 html {
 	position: absolute;
+	min-height: 100%;
 }
 
 body {
@@ -18,7 +19,7 @@ p {
 
 .logo {
 	position: absolute;
-	top:40% !important;
+	top: 25% !important;
 	letter-spacing: -2px;
 	font-size: 90pt;
 	font-weight: 900;
