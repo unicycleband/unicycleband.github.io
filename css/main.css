@@ -23,6 +23,11 @@ p {
 	text-align: center;
 }
 
+.row {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
 .logo {
 	position: absolute;
 	width: 100%;
